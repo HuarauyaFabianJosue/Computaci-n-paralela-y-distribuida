@@ -1,0 +1,551 @@
+2024-07-18 09:35:45,207 - INFO - Disk usage: 34.1%
+2024-07-18 09:35:45,207 - INFO - Memory usage: 80.0%
+2024-07-18 09:35:46,207 - INFO - CPU usage: 6.7%
+2024-07-18 09:35:46,209 - INFO - Disk usage: 34.1%
+2024-07-18 09:35:46,209 - INFO - Memory usage: 80.3%
+2024-07-18 09:35:46,209 - WARNING - Memory usage exceeded threshold: 80.3%
+2024-07-18 09:35:47,210 - INFO - Disk usage: 34.1%
+2024-07-18 09:35:47,211 - INFO - Memory usage: 80.3%
+2024-07-18 09:35:47,211 - WARNING - Memory usage exceeded threshold: 80.3%
+2024-07-18 09:35:48,212 - INFO - CPU usage: 1.8%
+2024-07-18 09:35:48,212 - INFO - Disk usage: 34.1%
+2024-07-18 09:35:48,213 - INFO - Memory usage: 80.3%
+2024-07-18 09:35:48,213 - WARNING - Memory usage exceeded threshold: 80.3%
+2024-07-18 09:35:49,215 - INFO - Disk usage: 34.1%
+2024-07-18 09:35:49,215 - INFO - Memory usage: 80.2%
+2024-07-18 09:35:49,215 - WARNING - Memory usage exceeded threshold: 80.2%
+2024-07-18 09:35:50,216 - INFO - CPU usage: 1.7%
+2024-07-18 09:35:50,217 - INFO - Disk usage: 34.1%
+2024-07-18 09:35:50,217 - INFO - Memory usage: 80.2%
+2024-07-18 09:35:50,217 - WARNING - Memory usage exceeded threshold: 80.2%
+2024-07-18 09:35:51,218 - INFO - Disk usage: 34.1%
+2024-07-18 09:35:51,219 - INFO - Memory usage: 80.3%
+2024-07-18 09:35:51,219 - WARNING - Memory usage exceeded threshold: 80.3%
+2024-07-18 09:35:52,220 - INFO - CPU usage: 1.8%
+2024-07-18 09:35:52,220 - INFO - Disk usage: 34.1%
+2024-07-18 09:35:52,221 - INFO - Memory usage: 80.1%
+2024-07-18 09:35:52,221 - WARNING - Memory usage exceeded threshold: 80.1%
+2024-07-18 09:35:53,222 - INFO - Disk usage: 34.1%
+2024-07-18 09:35:53,223 - INFO - Memory usage: 80.6%
+2024-07-18 09:35:53,223 - WARNING - Memory usage exceeded threshold: 80.6%
+2024-07-18 09:35:54,223 - INFO - CPU usage: 2.1%
+2024-07-18 09:35:54,224 - INFO - Disk usage: 34.1%
+2024-07-18 09:35:54,225 - INFO - Memory usage: 80.6%
+2024-07-18 09:35:54,225 - WARNING - Memory usage exceeded threshold: 80.6%
+2024-07-18 09:35:55,226 - INFO - Disk usage: 34.1%
+2024-07-18 09:35:55,226 - INFO - Memory usage: 80.6%
+2024-07-18 09:35:55,227 - WARNING - Memory usage exceeded threshold: 80.6%
+2024-07-18 09:35:56,227 - INFO - CPU usage: 2.3%
+2024-07-18 09:35:56,228 - INFO - Disk usage: 34.1%
+2024-07-18 09:35:56,228 - INFO - Memory usage: 80.6%
+2024-07-18 09:35:56,228 - WARNING - Memory usage exceeded threshold: 80.6%
+2024-07-18 09:35:57,230 - INFO - Disk usage: 34.1%
+2024-07-18 09:35:57,230 - INFO - Memory usage: 80.6%
+2024-07-18 09:35:57,230 - WARNING - Memory usage exceeded threshold: 80.6%
+2024-07-18 09:35:58,230 - INFO - CPU usage: 2.1%
+2024-07-18 09:35:58,231 - INFO - Disk usage: 34.1%
+2024-07-18 09:35:58,232 - INFO - Memory usage: 80.6%
+2024-07-18 09:35:58,232 - WARNING - Memory usage exceeded threshold: 80.6%
+2024-07-18 09:35:59,233 - INFO - Disk usage: 34.1%
+2024-07-18 09:35:59,233 - INFO - Memory usage: 80.5%
+2024-07-18 09:35:59,272 - WARNING - Memory usage exceeded threshold: 80.5%
+2024-07-18 09:36:00,234 - INFO - CPU usage: 1.6%
+2024-07-18 09:36:00,234 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:00,273 - INFO - Memory usage: 80.6%
+2024-07-18 09:36:00,273 - WARNING - Memory usage exceeded threshold: 80.6%
+2024-07-18 09:36:01,236 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:01,274 - INFO - Memory usage: 80.4%
+2024-07-18 09:36:01,274 - WARNING - Memory usage exceeded threshold: 80.4%
+2024-07-18 09:36:02,238 - INFO - CPU usage: 7.1%
+2024-07-18 09:36:02,238 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:02,276 - INFO - Memory usage: 80.6%
+2024-07-18 09:36:02,276 - WARNING - Memory usage exceeded threshold: 80.6%
+2024-07-18 09:36:03,240 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:03,278 - INFO - Memory usage: 80.9%
+2024-07-18 09:36:03,278 - WARNING - Memory usage exceeded threshold: 80.9%
+2024-07-18 09:36:04,241 - INFO - CPU usage: 7.6%
+2024-07-18 09:36:04,242 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:04,280 - INFO - Memory usage: 80.2%
+2024-07-18 09:36:04,280 - WARNING - Memory usage exceeded threshold: 80.2%
+2024-07-18 09:36:05,243 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:05,282 - INFO - Memory usage: 80.3%
+2024-07-18 09:36:05,282 - WARNING - Memory usage exceeded threshold: 80.3%
+2024-07-18 09:36:06,244 - INFO - CPU usage: 1.4%
+2024-07-18 09:36:06,245 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:06,284 - INFO - Memory usage: 80.3%
+2024-07-18 09:36:06,284 - WARNING - Memory usage exceeded threshold: 80.3%
+2024-07-18 09:36:07,247 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:07,285 - INFO - Memory usage: 80.3%
+2024-07-18 09:36:07,285 - WARNING - Memory usage exceeded threshold: 80.3%
+2024-07-18 09:36:08,248 - INFO - CPU usage: 4.6%
+2024-07-18 09:36:08,249 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:08,287 - INFO - Memory usage: 80.2%
+2024-07-18 09:36:08,287 - WARNING - Memory usage exceeded threshold: 80.2%
+2024-07-18 09:36:09,252 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:09,290 - INFO - Memory usage: 80.1%
+2024-07-18 09:36:09,290 - WARNING - Memory usage exceeded threshold: 80.1%
+2024-07-18 09:36:10,253 - INFO - CPU usage: 2.0%
+2024-07-18 09:36:10,253 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:10,291 - INFO - Memory usage: 80.2%
+2024-07-18 09:36:10,291 - WARNING - Memory usage exceeded threshold: 80.2%
+2024-07-18 09:36:11,255 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:11,293 - INFO - Memory usage: 80.2%
+2024-07-18 09:36:11,293 - WARNING - Memory usage exceeded threshold: 80.2%
+2024-07-18 09:36:12,257 - INFO - CPU usage: 1.4%
+2024-07-18 09:36:12,257 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:12,295 - INFO - Memory usage: 80.1%
+2024-07-18 09:36:12,295 - WARNING - Memory usage exceeded threshold: 80.1%
+2024-07-18 09:36:13,259 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:13,297 - INFO - Memory usage: 80.1%
+2024-07-18 09:36:13,297 - WARNING - Memory usage exceeded threshold: 80.1%
+2024-07-18 09:36:14,260 - INFO - CPU usage: 9.2%
+2024-07-18 09:36:14,261 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:14,298 - INFO - Memory usage: 79.9%
+2024-07-18 09:36:15,262 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:15,300 - INFO - Memory usage: 80.0%
+2024-07-18 09:36:16,263 - INFO - CPU usage: 1.8%
+2024-07-18 09:36:16,264 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:16,302 - INFO - Memory usage: 80.0%
+2024-07-18 09:36:17,266 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:17,304 - INFO - Memory usage: 80.0%
+2024-07-18 09:36:18,267 - INFO - CPU usage: 16.7%
+2024-07-18 09:36:18,268 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:18,306 - INFO - Memory usage: 80.3%
+2024-07-18 09:36:18,306 - WARNING - Memory usage exceeded threshold: 80.3%
+2024-07-18 09:36:19,270 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:19,308 - INFO - Memory usage: 80.2%
+2024-07-18 09:36:19,309 - WARNING - Memory usage exceeded threshold: 80.2%
+2024-07-18 09:36:20,272 - INFO - CPU usage: 1.4%
+2024-07-18 09:36:20,272 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:20,310 - INFO - Memory usage: 80.2%
+2024-07-18 09:36:20,310 - WARNING - Memory usage exceeded threshold: 80.2%
+2024-07-18 09:36:21,275 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:21,313 - INFO - Memory usage: 80.3%
+2024-07-18 09:36:21,313 - WARNING - Memory usage exceeded threshold: 80.3%
+2024-07-18 09:36:22,276 - INFO - CPU usage: 2.1%
+2024-07-18 09:36:22,276 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:22,316 - INFO - Memory usage: 80.3%
+2024-07-18 09:36:22,316 - WARNING - Memory usage exceeded threshold: 80.3%
+2024-07-18 09:36:23,278 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:23,317 - INFO - Memory usage: 80.4%
+2024-07-18 09:36:23,318 - WARNING - Memory usage exceeded threshold: 80.4%
+2024-07-18 09:36:24,279 - INFO - CPU usage: 1.4%
+2024-07-18 09:36:24,280 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:24,319 - INFO - Memory usage: 80.3%
+2024-07-18 09:36:24,319 - WARNING - Memory usage exceeded threshold: 80.3%
+2024-07-18 09:36:25,282 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:25,321 - INFO - Memory usage: 80.7%
+2024-07-18 09:36:25,321 - WARNING - Memory usage exceeded threshold: 80.7%
+2024-07-18 09:36:26,283 - INFO - CPU usage: 2.6%
+2024-07-18 09:36:26,284 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:26,322 - INFO - Memory usage: 80.7%
+2024-07-18 09:36:26,322 - WARNING - Memory usage exceeded threshold: 80.7%
+2024-07-18 09:36:27,285 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:27,323 - INFO - Memory usage: 80.6%
+2024-07-18 09:36:27,324 - WARNING - Memory usage exceeded threshold: 80.6%
+2024-07-18 09:36:28,287 - INFO - CPU usage: 1.6%
+2024-07-18 09:36:28,287 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:28,326 - INFO - Memory usage: 80.6%
+2024-07-18 09:36:28,326 - WARNING - Memory usage exceeded threshold: 80.6%
+2024-07-18 09:36:29,289 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:29,327 - INFO - Memory usage: 80.5%
+2024-07-18 09:36:29,328 - WARNING - Memory usage exceeded threshold: 80.5%
+2024-07-18 09:36:30,290 - INFO - CPU usage: 3.0%
+2024-07-18 09:36:30,291 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:30,330 - INFO - Memory usage: 80.5%
+2024-07-18 09:36:30,330 - WARNING - Memory usage exceeded threshold: 80.5%
+2024-07-18 09:36:31,293 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:31,331 - INFO - Memory usage: 80.6%
+2024-07-18 09:36:31,331 - WARNING - Memory usage exceeded threshold: 80.6%
+2024-07-18 09:36:32,294 - INFO - CPU usage: 1.9%
+2024-07-18 09:36:32,295 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:32,333 - INFO - Memory usage: 80.5%
+2024-07-18 09:36:32,333 - WARNING - Memory usage exceeded threshold: 80.5%
+2024-07-18 09:36:33,297 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:33,335 - INFO - Memory usage: 80.6%
+2024-07-18 09:36:33,336 - WARNING - Memory usage exceeded threshold: 80.6%
+2024-07-18 09:36:34,298 - INFO - CPU usage: 7.2%
+2024-07-18 09:36:34,299 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:34,337 - INFO - Memory usage: 80.8%
+2024-07-18 09:36:34,337 - WARNING - Memory usage exceeded threshold: 80.8%
+2024-07-18 09:36:35,301 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:35,340 - INFO - Memory usage: 80.9%
+2024-07-18 09:36:35,340 - WARNING - Memory usage exceeded threshold: 80.9%
+2024-07-18 09:36:36,302 - INFO - CPU usage: 11.9%
+2024-07-18 09:36:36,303 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:36,342 - INFO - Memory usage: 80.1%
+2024-07-18 09:36:36,342 - WARNING - Memory usage exceeded threshold: 80.1%
+2024-07-18 09:36:37,342 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:37,343 - INFO - Memory usage: 80.3%
+2024-07-18 09:36:37,343 - WARNING - Memory usage exceeded threshold: 80.3%
+2024-07-18 09:36:38,305 - INFO - CPU usage: 8.1%
+2024-07-18 09:36:38,343 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:38,344 - INFO - Memory usage: 80.3%
+2024-07-18 09:36:38,344 - WARNING - Memory usage exceeded threshold: 80.3%
+2024-07-18 09:36:39,345 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:39,345 - INFO - Memory usage: 80.2%
+2024-07-18 09:36:39,345 - WARNING - Memory usage exceeded threshold: 80.2%
+2024-07-18 09:36:40,308 - INFO - CPU usage: 3.2%
+2024-07-18 09:36:40,346 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:40,347 - INFO - Memory usage: 80.2%
+2024-07-18 09:36:40,347 - WARNING - Memory usage exceeded threshold: 80.2%
+2024-07-18 09:36:41,348 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:41,349 - INFO - Memory usage: 80.3%
+2024-07-18 09:36:41,349 - WARNING - Memory usage exceeded threshold: 80.3%
+2024-07-18 09:36:42,311 - INFO - CPU usage: 4.2%
+2024-07-18 09:36:42,349 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:42,350 - INFO - Memory usage: 80.3%
+2024-07-18 09:36:42,350 - WARNING - Memory usage exceeded threshold: 80.3%
+2024-07-18 09:36:43,351 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:43,352 - INFO - Memory usage: 80.1%
+2024-07-18 09:36:43,352 - WARNING - Memory usage exceeded threshold: 80.1%
+2024-07-18 09:36:44,315 - INFO - CPU usage: 16.2%
+2024-07-18 09:36:44,353 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:44,354 - INFO - Memory usage: 80.3%
+2024-07-18 09:36:44,354 - WARNING - Memory usage exceeded threshold: 80.3%
+2024-07-18 09:36:45,354 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:45,355 - INFO - Memory usage: 80.2%
+2024-07-18 09:36:45,355 - WARNING - Memory usage exceeded threshold: 80.2%
+2024-07-18 09:36:46,318 - INFO - CPU usage: 12.5%
+2024-07-18 09:36:46,356 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:46,357 - INFO - Memory usage: 80.3%
+2024-07-18 09:36:46,357 - WARNING - Memory usage exceeded threshold: 80.3%
+2024-07-18 09:36:47,358 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:47,359 - INFO - Memory usage: 80.2%
+2024-07-18 09:36:47,359 - WARNING - Memory usage exceeded threshold: 80.2%
+2024-07-18 09:36:48,322 - INFO - CPU usage: 10.9%
+2024-07-18 09:36:48,360 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:48,361 - INFO - Memory usage: 80.3%
+2024-07-18 09:36:48,361 - WARNING - Memory usage exceeded threshold: 80.3%
+2024-07-18 09:36:49,362 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:49,362 - INFO - Memory usage: 80.4%
+2024-07-18 09:36:49,362 - WARNING - Memory usage exceeded threshold: 80.4%
+2024-07-18 09:36:50,325 - INFO - CPU usage: 9.9%
+2024-07-18 09:36:50,363 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:50,364 - INFO - Memory usage: 80.6%
+2024-07-18 09:36:50,364 - WARNING - Memory usage exceeded threshold: 80.6%
+2024-07-18 09:36:51,366 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:51,366 - INFO - Memory usage: 80.5%
+2024-07-18 09:36:51,366 - WARNING - Memory usage exceeded threshold: 80.5%
+2024-07-18 09:36:52,329 - INFO - CPU usage: 4.0%
+2024-07-18 09:36:52,367 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:52,368 - INFO - Memory usage: 80.5%
+2024-07-18 09:36:52,368 - WARNING - Memory usage exceeded threshold: 80.5%
+2024-07-18 09:36:53,369 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:53,370 - INFO - Memory usage: 80.4%
+2024-07-18 09:36:53,370 - WARNING - Memory usage exceeded threshold: 80.4%
+2024-07-18 09:36:54,333 - INFO - CPU usage: 15.9%
+2024-07-18 09:36:54,371 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:54,371 - INFO - Memory usage: 80.3%
+2024-07-18 09:36:54,371 - WARNING - Memory usage exceeded threshold: 80.3%
+2024-07-18 09:36:55,372 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:55,373 - INFO - Memory usage: 80.4%
+2024-07-18 09:36:55,373 - WARNING - Memory usage exceeded threshold: 80.4%
+2024-07-18 09:36:56,335 - INFO - CPU usage: 12.2%
+2024-07-18 09:36:56,374 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:56,374 - INFO - Memory usage: 80.3%
+2024-07-18 09:36:56,375 - WARNING - Memory usage exceeded threshold: 80.3%
+2024-07-18 09:36:57,375 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:57,376 - INFO - Memory usage: 80.8%
+2024-07-18 09:36:57,376 - WARNING - Memory usage exceeded threshold: 80.8%
+2024-07-18 09:36:58,338 - INFO - CPU usage: 7.3%
+2024-07-18 09:36:58,377 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:58,377 - INFO - Memory usage: 80.7%
+2024-07-18 09:36:58,377 - WARNING - Memory usage exceeded threshold: 80.7%
+2024-07-18 09:36:59,378 - INFO - Disk usage: 34.1%
+2024-07-18 09:36:59,378 - INFO - Memory usage: 80.6%
+2024-07-18 09:36:59,378 - WARNING - Memory usage exceeded threshold: 80.6%
+2024-07-18 09:37:00,341 - INFO - CPU usage: 9.9%
+2024-07-18 09:37:00,380 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:00,380 - INFO - Memory usage: 80.6%
+2024-07-18 09:37:00,380 - WARNING - Memory usage exceeded threshold: 80.6%
+2024-07-18 09:37:01,380 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:01,381 - INFO - Memory usage: 80.6%
+2024-07-18 09:37:01,381 - WARNING - Memory usage exceeded threshold: 80.6%
+2024-07-18 09:37:02,344 - INFO - CPU usage: 14.5%
+2024-07-18 09:37:02,382 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:02,383 - INFO - Memory usage: 80.6%
+2024-07-18 09:37:02,383 - WARNING - Memory usage exceeded threshold: 80.6%
+2024-07-18 09:37:03,384 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:03,385 - INFO - Memory usage: 80.6%
+2024-07-18 09:37:03,385 - WARNING - Memory usage exceeded threshold: 80.6%
+2024-07-18 09:37:04,347 - INFO - CPU usage: 10.3%
+2024-07-18 09:37:04,385 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:04,386 - INFO - Memory usage: 80.6%
+2024-07-18 09:37:04,386 - WARNING - Memory usage exceeded threshold: 80.6%
+2024-07-18 09:37:05,387 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:05,388 - INFO - Memory usage: 80.7%
+2024-07-18 09:37:05,388 - WARNING - Memory usage exceeded threshold: 80.7%
+2024-07-18 09:37:06,351 - INFO - CPU usage: 13.2%
+2024-07-18 09:37:06,389 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:06,389 - INFO - Memory usage: 80.9%
+2024-07-18 09:37:06,389 - WARNING - Memory usage exceeded threshold: 80.9%
+2024-07-18 09:37:07,390 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:07,391 - INFO - Memory usage: 81.0%
+2024-07-18 09:37:07,391 - WARNING - Memory usage exceeded threshold: 81.0%
+2024-07-18 09:37:08,354 - INFO - CPU usage: 8.6%
+2024-07-18 09:37:08,392 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:08,392 - INFO - Memory usage: 80.3%
+2024-07-18 09:37:08,392 - WARNING - Memory usage exceeded threshold: 80.3%
+2024-07-18 09:37:09,394 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:09,395 - INFO - Memory usage: 80.3%
+2024-07-18 09:37:09,395 - WARNING - Memory usage exceeded threshold: 80.3%
+2024-07-18 09:37:10,358 - INFO - CPU usage: 2.9%
+2024-07-18 09:37:10,396 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:10,396 - INFO - Memory usage: 80.3%
+2024-07-18 09:37:10,397 - WARNING - Memory usage exceeded threshold: 80.3%
+2024-07-18 09:37:11,398 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:11,399 - INFO - Memory usage: 80.3%
+2024-07-18 09:37:11,399 - WARNING - Memory usage exceeded threshold: 80.3%
+2024-07-18 09:37:12,361 - INFO - CPU usage: 3.6%
+2024-07-18 09:37:12,399 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:12,400 - INFO - Memory usage: 80.2%
+2024-07-18 09:37:12,401 - WARNING - Memory usage exceeded threshold: 80.2%
+2024-07-18 09:37:13,402 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:13,402 - INFO - Memory usage: 80.3%
+2024-07-18 09:37:13,402 - WARNING - Memory usage exceeded threshold: 80.3%
+2024-07-18 09:37:14,365 - INFO - CPU usage: 10.5%
+2024-07-18 09:37:14,403 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:14,403 - INFO - Memory usage: 80.2%
+2024-07-18 09:37:14,403 - WARNING - Memory usage exceeded threshold: 80.2%
+2024-07-18 09:37:15,404 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:15,405 - INFO - Memory usage: 80.2%
+2024-07-18 09:37:15,405 - WARNING - Memory usage exceeded threshold: 80.2%
+2024-07-18 09:37:16,367 - INFO - CPU usage: 8.8%
+2024-07-18 09:37:16,405 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:16,407 - INFO - Memory usage: 80.3%
+2024-07-18 09:37:16,407 - WARNING - Memory usage exceeded threshold: 80.3%
+2024-07-18 09:37:17,407 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:17,408 - INFO - Memory usage: 80.4%
+2024-07-18 09:37:17,408 - WARNING - Memory usage exceeded threshold: 80.4%
+2024-07-18 09:37:18,371 - INFO - CPU usage: 9.7%
+2024-07-18 09:37:18,409 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:18,410 - INFO - Memory usage: 80.3%
+2024-07-18 09:37:18,410 - WARNING - Memory usage exceeded threshold: 80.3%
+2024-07-18 09:37:19,410 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:19,410 - INFO - Memory usage: 80.3%
+2024-07-18 09:37:19,411 - WARNING - Memory usage exceeded threshold: 80.3%
+2024-07-18 09:37:20,372 - INFO - CPU usage: 6.3%
+2024-07-18 09:37:20,413 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:20,413 - INFO - Memory usage: 80.3%
+2024-07-18 09:37:20,413 - WARNING - Memory usage exceeded threshold: 80.3%
+2024-07-18 09:37:21,414 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:21,415 - INFO - Memory usage: 80.1%
+2024-07-18 09:37:21,415 - WARNING - Memory usage exceeded threshold: 80.1%
+2024-07-18 09:37:22,376 - INFO - CPU usage: 13.5%
+2024-07-18 09:37:22,415 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:22,416 - INFO - Memory usage: 80.4%
+2024-07-18 09:37:22,416 - WARNING - Memory usage exceeded threshold: 80.4%
+2024-07-18 09:37:23,417 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:23,418 - INFO - Memory usage: 80.5%
+2024-07-18 09:37:23,418 - WARNING - Memory usage exceeded threshold: 80.5%
+2024-07-18 09:37:24,379 - INFO - CPU usage: 5.8%
+2024-07-18 09:37:24,419 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:24,419 - INFO - Memory usage: 80.3%
+2024-07-18 09:37:24,419 - WARNING - Memory usage exceeded threshold: 80.3%
+2024-07-18 09:37:25,419 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:25,420 - INFO - Memory usage: 80.5%
+2024-07-18 09:37:25,420 - WARNING - Memory usage exceeded threshold: 80.5%
+2024-07-18 09:37:26,382 - INFO - CPU usage: 6.6%
+2024-07-18 09:37:26,421 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:26,422 - INFO - Memory usage: 80.6%
+2024-07-18 09:37:26,422 - WARNING - Memory usage exceeded threshold: 80.6%
+2024-07-18 09:37:27,423 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:27,424 - INFO - Memory usage: 80.6%
+2024-07-18 09:37:27,424 - WARNING - Memory usage exceeded threshold: 80.6%
+2024-07-18 09:37:28,385 - INFO - CPU usage: 7.4%
+2024-07-18 09:37:28,424 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:28,425 - INFO - Memory usage: 80.5%
+2024-07-18 09:37:28,425 - WARNING - Memory usage exceeded threshold: 80.5%
+2024-07-18 09:37:29,426 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:29,427 - INFO - Memory usage: 80.9%
+2024-07-18 09:37:29,427 - WARNING - Memory usage exceeded threshold: 80.9%
+2024-07-18 09:37:30,389 - INFO - CPU usage: 8.0%
+2024-07-18 09:37:30,428 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:30,428 - INFO - Memory usage: 81.0%
+2024-07-18 09:37:30,428 - WARNING - Memory usage exceeded threshold: 81.0%
+2024-07-18 09:37:31,429 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:31,430 - INFO - Memory usage: 81.0%
+2024-07-18 09:37:31,430 - WARNING - Memory usage exceeded threshold: 81.0%
+2024-07-18 09:37:32,391 - INFO - CPU usage: 10.0%
+2024-07-18 09:37:32,430 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:32,431 - INFO - Memory usage: 81.0%
+2024-07-18 09:37:32,431 - WARNING - Memory usage exceeded threshold: 81.0%
+2024-07-18 09:37:33,432 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:33,433 - INFO - Memory usage: 81.0%
+2024-07-18 09:37:33,433 - WARNING - Memory usage exceeded threshold: 81.0%
+2024-07-18 09:37:34,395 - INFO - CPU usage: 6.9%
+2024-07-18 09:37:34,434 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:34,435 - INFO - Memory usage: 81.0%
+2024-07-18 09:37:34,473 - WARNING - Memory usage exceeded threshold: 81.0%
+2024-07-18 09:37:35,435 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:35,474 - INFO - Memory usage: 81.0%
+2024-07-18 09:37:35,474 - WARNING - Memory usage exceeded threshold: 81.0%
+2024-07-18 09:37:36,397 - INFO - CPU usage: 10.8%
+2024-07-18 09:37:36,436 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:36,476 - INFO - Memory usage: 81.1%
+2024-07-18 09:37:36,476 - WARNING - Memory usage exceeded threshold: 81.1%
+2024-07-18 09:37:37,438 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:37,477 - INFO - Memory usage: 81.0%
+2024-07-18 09:37:37,477 - WARNING - Memory usage exceeded threshold: 81.0%
+2024-07-18 09:37:38,399 - INFO - CPU usage: 12.9%
+2024-07-18 09:37:38,439 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:38,479 - INFO - Memory usage: 81.2%
+2024-07-18 09:37:38,479 - WARNING - Memory usage exceeded threshold: 81.2%
+2024-07-18 09:37:39,440 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:39,481 - INFO - Memory usage: 81.3%
+2024-07-18 09:37:39,481 - WARNING - Memory usage exceeded threshold: 81.3%
+2024-07-18 09:37:40,402 - INFO - CPU usage: 19.7%
+2024-07-18 09:37:40,441 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:40,482 - INFO - Memory usage: 80.7%
+2024-07-18 09:37:40,482 - WARNING - Memory usage exceeded threshold: 80.7%
+2024-07-18 09:37:41,442 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:41,484 - INFO - Memory usage: 80.7%
+2024-07-18 09:37:41,484 - WARNING - Memory usage exceeded threshold: 80.7%
+2024-07-18 09:37:42,405 - INFO - CPU usage: 6.0%
+2024-07-18 09:37:42,444 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:42,486 - INFO - Memory usage: 80.7%
+2024-07-18 09:37:42,486 - WARNING - Memory usage exceeded threshold: 80.7%
+2024-07-18 09:37:43,445 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:43,488 - INFO - Memory usage: 80.7%
+2024-07-18 09:37:43,488 - WARNING - Memory usage exceeded threshold: 80.7%
+2024-07-18 09:37:44,408 - INFO - CPU usage: 10.8%
+2024-07-18 09:37:44,447 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:44,490 - INFO - Memory usage: 80.7%
+2024-07-18 09:37:44,490 - WARNING - Memory usage exceeded threshold: 80.7%
+2024-07-18 09:37:45,448 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:45,492 - INFO - Memory usage: 80.7%
+2024-07-18 09:37:45,492 - WARNING - Memory usage exceeded threshold: 80.7%
+2024-07-18 09:37:46,410 - INFO - CPU usage: 11.6%
+2024-07-18 09:37:46,449 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:46,494 - INFO - Memory usage: 80.7%
+2024-07-18 09:37:46,494 - WARNING - Memory usage exceeded threshold: 80.7%
+2024-07-18 09:37:47,451 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:47,495 - INFO - Memory usage: 80.9%
+2024-07-18 09:37:47,496 - WARNING - Memory usage exceeded threshold: 80.9%
+2024-07-18 09:37:48,413 - INFO - CPU usage: 8.2%
+2024-07-18 09:37:48,452 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:48,497 - INFO - Memory usage: 80.8%
+2024-07-18 09:37:48,497 - WARNING - Memory usage exceeded threshold: 80.8%
+2024-07-18 09:37:49,453 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:49,499 - INFO - Memory usage: 80.9%
+2024-07-18 09:37:49,499 - WARNING - Memory usage exceeded threshold: 80.9%
+2024-07-18 09:37:50,417 - INFO - CPU usage: 12.8%
+2024-07-18 09:37:50,454 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:50,500 - INFO - Memory usage: 80.8%
+2024-07-18 09:37:50,500 - WARNING - Memory usage exceeded threshold: 80.8%
+2024-07-18 09:37:51,456 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:51,502 - INFO - Memory usage: 80.8%
+2024-07-18 09:37:51,502 - WARNING - Memory usage exceeded threshold: 80.8%
+2024-07-18 09:37:52,420 - INFO - CPU usage: 12.8%
+2024-07-18 09:37:52,458 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:52,503 - INFO - Memory usage: 80.9%
+2024-07-18 09:37:52,503 - WARNING - Memory usage exceeded threshold: 80.9%
+2024-07-18 09:37:53,459 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:53,505 - INFO - Memory usage: 80.9%
+2024-07-18 09:37:53,505 - WARNING - Memory usage exceeded threshold: 80.9%
+2024-07-18 09:37:54,423 - INFO - CPU usage: 17.3%
+2024-07-18 09:37:54,460 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:54,506 - INFO - Memory usage: 81.2%
+2024-07-18 09:37:54,506 - WARNING - Memory usage exceeded threshold: 81.2%
+2024-07-18 09:37:55,462 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:55,508 - INFO - Memory usage: 80.9%
+2024-07-18 09:37:55,508 - WARNING - Memory usage exceeded threshold: 80.9%
+2024-07-18 09:37:56,425 - INFO - CPU usage: 4.3%
+2024-07-18 09:37:56,463 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:56,509 - INFO - Memory usage: 80.9%
+2024-07-18 09:37:56,509 - WARNING - Memory usage exceeded threshold: 80.9%
+2024-07-18 09:37:57,464 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:57,511 - INFO - Memory usage: 81.0%
+2024-07-18 09:37:57,511 - WARNING - Memory usage exceeded threshold: 81.0%
+2024-07-18 09:37:58,428 - INFO - CPU usage: 4.5%
+2024-07-18 09:37:58,466 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:58,513 - INFO - Memory usage: 81.0%
+2024-07-18 09:37:58,513 - WARNING - Memory usage exceeded threshold: 81.0%
+2024-07-18 09:37:59,467 - INFO - Disk usage: 34.1%
+2024-07-18 09:37:59,515 - INFO - Memory usage: 81.0%
+2024-07-18 09:37:59,515 - WARNING - Memory usage exceeded threshold: 81.0%
+2024-07-18 09:38:00,431 - INFO - CPU usage: 10.0%
+2024-07-18 09:38:00,469 - INFO - Disk usage: 34.1%
+2024-07-18 09:38:00,516 - INFO - Memory usage: 81.0%
+2024-07-18 09:38:00,516 - WARNING - Memory usage exceeded threshold: 81.0%
+2024-07-18 09:38:01,470 - INFO - Disk usage: 34.1%
+2024-07-18 09:38:01,518 - INFO - Memory usage: 81.3%
+2024-07-18 09:38:01,518 - WARNING - Memory usage exceeded threshold: 81.3%
+2024-07-18 09:38:02,434 - INFO - CPU usage: 4.7%
+2024-07-18 09:38:02,472 - INFO - Disk usage: 34.1%
+2024-07-18 09:38:02,520 - INFO - Memory usage: 81.3%
+2024-07-18 09:38:02,520 - WARNING - Memory usage exceeded threshold: 81.3%
+2024-07-18 09:38:03,475 - INFO - Disk usage: 34.1%
+2024-07-18 09:38:03,521 - INFO - Memory usage: 81.3%
+2024-07-18 09:38:03,522 - WARNING - Memory usage exceeded threshold: 81.3%
+2024-07-18 09:38:04,438 - INFO - CPU usage: 3.6%
+2024-07-18 09:38:04,477 - INFO - Disk usage: 34.1%
+2024-07-18 09:38:04,523 - INFO - Memory usage: 81.3%
+2024-07-18 09:38:04,523 - WARNING - Memory usage exceeded threshold: 81.3%
+2024-07-18 09:38:05,479 - INFO - Disk usage: 34.1%
+2024-07-18 09:38:05,525 - INFO - Memory usage: 81.3%
+2024-07-18 09:38:05,525 - WARNING - Memory usage exceeded threshold: 81.3%
+2024-07-18 09:38:06,441 - INFO - CPU usage: 8.8%
+2024-07-18 09:38:06,480 - INFO - Disk usage: 34.1%
+2024-07-18 09:38:06,526 - INFO - Memory usage: 81.3%
+2024-07-18 09:38:06,527 - WARNING - Memory usage exceeded threshold: 81.3%
+2024-07-18 09:38:07,482 - INFO - Disk usage: 34.1%
+2024-07-18 09:38:07,529 - INFO - Memory usage: 81.3%
+2024-07-18 09:38:07,529 - WARNING - Memory usage exceeded threshold: 81.3%
+2024-07-18 09:38:08,445 - INFO - CPU usage: 3.8%
+2024-07-18 09:38:08,484 - INFO - Disk usage: 34.1%
+2024-07-18 09:38:08,530 - INFO - Memory usage: 81.3%
+2024-07-18 09:38:08,530 - WARNING - Memory usage exceeded threshold: 81.3%
+2024-07-18 09:38:09,486 - INFO - Disk usage: 34.1%
+2024-07-18 09:38:09,532 - INFO - Memory usage: 81.3%
+2024-07-18 09:38:09,532 - WARNING - Memory usage exceeded threshold: 81.3%
+2024-07-18 09:38:10,448 - INFO - CPU usage: 12.3%
+2024-07-18 09:38:10,487 - INFO - Disk usage: 34.1%
+2024-07-18 09:38:10,533 - INFO - Memory usage: 81.7%
+2024-07-18 09:38:10,533 - WARNING - Memory usage exceeded threshold: 81.7%
+2024-07-18 09:38:11,488 - INFO - Disk usage: 34.1%
+2024-07-18 09:38:11,534 - INFO - Memory usage: 81.7%
+2024-07-18 09:38:11,535 - WARNING - Memory usage exceeded threshold: 81.7%
+2024-07-18 09:38:12,451 - INFO - CPU usage: 13.3%
+2024-07-18 09:38:12,490 - INFO - Disk usage: 34.1%
+2024-07-18 09:38:12,536 - INFO - Memory usage: 80.8%
+2024-07-18 09:38:12,536 - WARNING - Memory usage exceeded threshold: 80.8%
+2024-07-18 09:38:13,491 - INFO - Disk usage: 34.1%
+2024-07-18 09:38:13,538 - INFO - Memory usage: 81.1%
+2024-07-18 09:38:13,538 - WARNING - Memory usage exceeded threshold: 81.1%
+2024-07-18 09:38:14,453 - INFO - CPU usage: 10.2%
+2024-07-18 09:38:14,492 - INFO - Disk usage: 34.1%
+2024-07-18 09:38:14,539 - INFO - Memory usage: 81.1%
+2024-07-18 09:38:14,539 - WARNING - Memory usage exceeded threshold: 81.1%
+2024-07-18 09:38:15,494 - INFO - Disk usage: 34.1%
+2024-07-18 09:38:15,541 - INFO - Memory usage: 80.9%
+2024-07-18 09:38:15,541 - WARNING - Memory usage exceeded threshold: 80.9%
+2024-07-18 09:38:16,457 - INFO - CPU usage: 2.2%
+2024-07-18 09:38:16,495 - INFO - Disk usage: 34.1%
+2024-07-18 09:38:16,543 - INFO - Memory usage: 80.9%
+2024-07-18 09:38:16,543 - WARNING - Memory usage exceeded threshold: 80.9%
+2024-07-18 09:38:17,496 - INFO - Disk usage: 34.1%
+2024-07-18 09:38:17,545 - INFO - Memory usage: 81.0%
+2024-07-18 09:38:17,545 - WARNING - Memory usage exceeded threshold: 81.0%
+2024-07-18 09:38:18,459 - INFO - CPU usage: 1.9%
+2024-07-18 09:38:18,498 - INFO - Disk usage: 34.1%
+2024-07-18 09:38:18,547 - INFO - Memory usage: 80.9%
+2024-07-18 09:38:18,547 - WARNING - Memory usage exceeded threshold: 80.9%
+2024-07-18 09:38:19,499 - INFO - Disk usage: 34.1%
+2024-07-18 09:38:19,549 - INFO - Memory usage: 80.9%
+2024-07-18 09:38:19,549 - WARNING - Memory usage exceeded threshold: 80.9%
+2024-07-18 09:38:20,462 - INFO - CPU usage: 10.1%
+2024-07-18 09:38:20,500 - INFO - Disk usage: 34.1%
+2024-07-18 09:38:20,551 - INFO - Memory usage: 81.0%
+2024-07-18 09:38:20,551 - WARNING - Memory usage exceeded threshold: 81.0%
+2024-07-18 09:38:21,502 - INFO - Disk usage: 34.1%
+2024-07-18 09:38:21,552 - INFO - Memory usage: 81.0%
+2024-07-18 09:38:21,553 - WARNING - Memory usage exceeded threshold: 81.0%
+2024-07-18 09:38:22,466 - INFO - CPU usage: 11.0%
+2024-07-18 09:38:22,504 - INFO - Disk usage: 34.1%
+2024-07-18 09:38:22,554 - INFO - Memory usage: 81.0%
+2024-07-18 09:38:22,555 - WARNING - Memory usage exceeded threshold: 81.0%
+2024-07-18 09:38:23,506 - INFO - Disk usage: 34.1%
+2024-07-18 09:38:23,556 - INFO - Memory usage: 81.0%
+2024-07-18 09:38:23,556 - WARNING - Memory usage exceeded threshold: 81.0%
